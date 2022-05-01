@@ -1,0 +1,3 @@
+inputs strings for team names 
+ints for amount of troops 
+real money
